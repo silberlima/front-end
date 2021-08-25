@@ -13,13 +13,21 @@ import { NavComponent } from './components/template/nav/nav.component';
 import { MatSidenavModule } from  '@angular/material/sidenav';
 import { MatCardModule } from  '@angular/material/card';
 import { MatListModule } from '@angular/material/list';
+import { HomeComponent } from './views/home/home.component';
+import { ProductComponent } from './views/product/product.component';
+import { ForDirective } from './directives/for.directive';
+import { ProductCreateComponent } from './components/product/product-create/product-create.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     FooterComponent,
-    NavComponent
+    NavComponent,
+    HomeComponent,
+    ProductComponent,
+    ForDirective,
+    ProductCreateComponent
   ],
   imports: [
     BrowserModule,
