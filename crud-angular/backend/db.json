@@ -1,0 +1,19 @@
+{
+    "produtcs":[ 
+        {
+            "id":1,
+            "name": "Arroz",
+            "price": 10.25
+        },
+        {
+            "id":2,
+            "name": "Feijão",
+            "price": 5.69
+        },
+        {
+            "id":3,
+            "name": "Carne",
+            "price": 50.36
+        }
+    ]
+}
