@@ -1,19 +1,29 @@
 {
-    "produtcs":[ 
-        {
-            "id":1,
-            "name": "Arroz",
-            "price": 10.25
-        },
-        {
-            "id":2,
-            "name": "Feijão",
-            "price": 5.69
-        },
-        {
-            "id":3,
-            "name": "Carne",
-            "price": 50.36
-        }
-    ]
+  "produtcs": [
+    {
+      "id": 1,
+      "name": "Arroz",
+      "price": 10.25
+    },
+    {
+      "id": 2,
+      "name": "Feijão",
+      "price": 5.69
+    },
+    {
+      "id": 3,
+      "name": "Carne",
+      "price": 50.36
+    },
+    {
+      "name": "Veio do formulario",
+      "price": "10.30",
+      "id": 4
+    },
+    {
+      "name": "Geladeira",
+      "price": "1941.35",
+      "id": 5
+    }
+  ]
 }
